@@ -71,8 +71,20 @@ img {
     width: 500px;
 }
 
+.synopsis h2{
+    color:red;
+}
+
 .header, p {
     padding-bottom: 16px;
+}
+
+.subhead, h3{
+    color: red;
+}
+
+h4{
+    color: red;
 }
 
 .copy {
