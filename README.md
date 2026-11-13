@@ -114,3 +114,9 @@ Working on this project improved my confidence in building multi-page websites a
 ## GitHub Repository
 
 [The Crime Brothers – Promotional Movie Website](https://github.com/bindu953/Promotional-Movie-Website)
+
+## Project Management & Design
+
+[Figma Wireframes and Mockup](https://www.figma.com/design/LZed7k6BRL1EOdJjuAdb5J/Crime-Movie-Site?node-id=0-1&t=UuVkdJV2cxyTRVnT-1)
+[Trello Project Board](https://www.figma.com/design/LZed7k6BRL1EOdJjuAdb5J/Crime-Movie-Site?node-id=0-1&t=UuVkdJV2cxyTRVnT-1)
+
