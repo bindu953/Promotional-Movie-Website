@@ -146,6 +146,28 @@ header {
     text-decoration: underline;
 }
 
+.footer-contact p {
+    margin-bottom: 10px;
+}
+
+.footer-contact p:last-child {
+    margin-bottom: 0;
+}
+
+.footer-contact i {
+    color: #ff7065;
+    margin-right: 8px;
+}
+
+.footer-contact a {
+    color: #bfc2c9;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    color: #ff7065;
+}
+
 .copyright {
     text-align: center;
     border-top: 1px solid #42454b;
